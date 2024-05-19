@@ -1,0 +1,7 @@
+.main{
+    background-image: url(./../../../public/picture.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+  }
